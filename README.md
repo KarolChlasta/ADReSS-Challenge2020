@@ -1,6 +1,7 @@
 # Human-Media Interaction
 Human-Media Interaction publishes work focused on all aspects of human interaction with computers and related media. The section welcomes submissions from academic and industry researchers that seek to advance understanding and development of both human-computer interaction and human-human interaction through computational media.
-  https://www.frontiersin.org/journals/all/sections/human-media-interaction
+
+https://www.frontiersin.org/journals/all/sections/human-media-interaction
 
 ## About Alzheimer's Dementia Recognition through Spontaneous Speech (ADReSS-Challenge2020)
 Dementia is a category of neurodegenerative diseases that entails a long-term and usually gradual decrease of cognitive functioning. The main risk factor for dementia is age, and therefore its greatest incidence is amongst the elderly. Due to the severity of the situation worldwide, institutions and researchers are investing considerably in dementia prevention and early detection, focusing on disease progression. There is a need for cost-effective and scalable methods for the detection of dementia from its most subtle forms, such as the pre-clinical stage of Subjective Cognitive Impairment (SCI), to more severe conditions like Mild Cognitive Impairment (MCI) and Alzheimer's Dementia (AD) itself.
