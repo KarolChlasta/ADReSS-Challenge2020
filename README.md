@@ -8,6 +8,8 @@ Dementia is a category of neurodegenerative diseases that entails a long-term an
 While a number of studies have investigated speech and language features for the detection of Alzheimer's Disease and mild cognitive impairment, and have proposed various signal processing and machine learning methods for this prediction task, the field still lacks balanced and standardized data sets on which these different approaches can be systematically compared.
 
 The main objective of this Research Topic is to explore the use of speech characteristics for AD recognition using standardized data sets. We expect that this Topic will bring together groups working on this active area of research, and provide the community with the very first comprehensive comparison of different approaches to AD recognition using the speech information.
+https://www.frontiersin.org/research-topics/13702/alzheimers-dementia-recognition-through-spontaneous-speech
+http://www.homepages.ed.ac.uk/sluzfil/ADReSS/
 
 ## Towards computer-based automated screening of dementia through spontaneous speech
 
@@ -15,5 +17,3 @@ The code in this repository extends the manuscript submitted to this Research To
 • AD classification, for distinguishing individuals with AD from age and gender matched healthy controls.
 
 Keywords: Speech Technology, Affective Computing, Prosodic Analysis, Machine Learning, Mental Health monitoring
-https://www.frontiersin.org/research-topics/13702/alzheimers-dementia-recognition-through-spontaneous-speech
-http://www.homepages.ed.ac.uk/sluzfil/ADReSS/
